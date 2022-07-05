@@ -11,6 +11,7 @@ class Main {
       int sonsayı=temp%10;
       terssayi=terssayi*10+sonsayı;
       temp/=10;
+      sdsd
     } System.out.println("Girdiğiniz sayi: "+number);
 
       System.out.println("Girdiğiniz sayının tersi: "+terssayi);
