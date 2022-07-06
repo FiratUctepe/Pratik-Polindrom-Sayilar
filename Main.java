@@ -20,9 +20,9 @@ class Main {
     System.out.println("Girdiğiniz sayının tersi: "+terssayi);
     
     if(number==terssayi){
-      System.out.println(number+" sayısı palindrom bir sayıdır.");
+      System.out.println(number+" sayısı polindrom bir sayıdır.");
     }else{
-      System.out.println(number+" sayısı palindrom bir sayı değildir.");
+      System.out.println(number+" sayısı polindrom bir sayı değildir.");
     }
   }
 }
